@@ -18,12 +18,6 @@ blocklists = {
 		'regex': '',
 		'file' : 'malwaredomains.domain',
 	},
-	'PhishTank': {
-		'id': 'phishtank',
-		'url': 'http://data.phishtank.com/data/online-valid.csv',
-		'regex': '/^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/',
-		'file' : 'phishtank.domain',
-	},
 	'MVPS': {
 		'id': 'mvps',
 		'url': 'http://winhelp2002.mvps.org/hosts.txt',
