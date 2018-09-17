@@ -44,7 +44,7 @@ blocklists = {
 	},
 	'The Cameleon Project': {
 		'id': 'cameleonproject',
-		'url': 'https://sysctl.org/cameleon/hosts',
+		'url': 'http://sysctl.org/cameleon/hosts',
 		'regex': '',
 		'file' : 'cameleon.domain',
 	},
